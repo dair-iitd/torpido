@@ -7,7 +7,7 @@ If you find this repository useful please cite the work
 
 @incollection{NIPS2018_8293,
 title = {Transfer of Deep Reactive Policies for MDP Planning},
-author = {Bajpai, Aniket (Nick) and Garg, Sankalp and },
+author = {Bajpai, Aniket (Nick) and Garg, Sankalp and Mausam},
 booktitle = {Advances in Neural Information Processing Systems 31},
 year = {2018},
 url = {http://papers.nips.cc/paper/8293-transfer-of-deep-reactive-policies-for-mdp-planning.pdf}
